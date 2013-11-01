@@ -1,0 +1,166 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_SMALL_F",
+            "type": "png",
+            "file": "images/FS.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_E",
+            "type": "png",
+            "file": "images/ES.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_D",
+            "type": "png",
+            "file": "images/DS.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_C",
+            "type": "png",
+            "file": "images/CS.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_B",
+            "type": "png",
+            "file": "images/BS.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_A",
+            "type": "png",
+            "file": "images/AS.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_9",
+            "type": "png",
+            "file": "images/9S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_8",
+            "type": "png",
+            "file": "images/8S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_7",
+            "type": "png",
+            "file": "images/7S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_6",
+            "type": "png",
+            "file": "images/6S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_5",
+            "type": "png",
+            "file": "images/5S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_4",
+            "type": "png",
+            "file": "images/4S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_3",
+            "type": "png",
+            "file": "images/3S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_2",
+            "type": "png",
+            "file": "images/2S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_1",
+            "type": "png",
+            "file": "images/1S.png"
+        },
+        {
+            "defName": "IMAGE_SMALL_0",
+            "type": "png",
+            "file": "images/0S.png"
+        },
+        {
+            "defName": "IMAGE_NUM_F",
+            "type": "png",
+            "file": "images/F.png"
+        },
+        {
+            "defName": "IMAGE_NUM_E",
+            "type": "png",
+            "file": "images/E.png"
+        },
+        {
+            "defName": "IMAGE_NUM_D",
+            "type": "png",
+            "file": "images/D.png"
+        },
+        {
+            "defName": "IMAGE_NUM_C",
+            "type": "png",
+            "file": "images/C.png"
+        },
+        {
+            "defName": "IMAGE_NUM_B",
+            "type": "png",
+            "file": "images/B.png"
+        },
+        {
+            "defName": "IMAGE_NUM_A",
+            "type": "png",
+            "file": "images/A.png"
+        },
+        {
+            "defName": "IMAGE_NUM_0",
+            "type": "png",
+            "file": "images/num_0.png"
+        },
+        {
+            "defName": "IMAGE_NUM_1",
+            "type": "png",
+            "file": "images/num_1.png"
+        },
+        {
+            "defName": "IMAGE_NUM_2",
+            "type": "png",
+            "file": "images/num_2.png"
+        },
+        {
+            "defName": "IMAGE_NUM_3",
+            "type": "png",
+            "file": "images/num_3.png"
+        },
+        {
+            "defName": "IMAGE_NUM_4",
+            "type": "png",
+            "file": "images/num_4.png"
+        },
+        {
+            "defName": "IMAGE_NUM_5",
+            "type": "png",
+            "file": "images/num_5.png"
+        },
+        {
+            "defName": "IMAGE_NUM_6",
+            "type": "png",
+            "file": "images/num_6.png"
+        },
+        {
+            "defName": "IMAGE_NUM_7",
+            "type": "png",
+            "file": "images/num_7.png"
+        },
+        {
+            "defName": "IMAGE_NUM_8",
+            "type": "png",
+            "file": "images/num_8.png"
+        },
+        {
+            "defName": "IMAGE_NUM_9",
+            "type": "png",
+            "file": "images/num_9.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
